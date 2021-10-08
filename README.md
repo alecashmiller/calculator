@@ -1,0 +1,1 @@
+Goal: to create a basic, functional online calculator
